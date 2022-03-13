@@ -5,7 +5,7 @@
 		"th10gte": "Touhou 10: Google Translate Edition"
 	},
 	"servers": [
-		"https://github.com/KabanFriends/THGTE"
+		"https://raw.githubusercontent.com/KabanFriends/THGTE/master/"
 	],
 	"title": "Project 6 (a.k.a. Touhou Project: Google Translate Edition)"
 }
