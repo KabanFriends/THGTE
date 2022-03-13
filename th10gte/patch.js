@@ -5,7 +5,7 @@
 	],
 	"id": "th10gte",
 	"servers": [
-		"https://github.com/KabanFriends/THGTE/th10gte/"
+		"https://raw.githubusercontent.com/KabanFriends/THGTE/master/"
 	],
-	"title": "Touhou 10: Google Translate Edition"
+	"title": "Strong East Wind - Rock of Faith (a.k.a. Touhou 10: Google Translation Edition)"
 }
