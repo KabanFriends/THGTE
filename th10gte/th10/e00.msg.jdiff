@@ -1,0 +1,50 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Remo  >Stay at the Hakure Temple."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "After defeating the Lord, the Roman shook his head"
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "and said to follow him."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Remo  >\"That's amazing.",
+                "<l$> In fact, it quickly became our home."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> If I do not return ...\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "RAM does not stop sleeping."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "Checkpoints are always the worst fighters ..."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<c$Conclusion 07 - Did you sleep well today?$>"
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<c$Pay close attention to temperatures of 1°C or higher!$>"
+            ]
+        }
+    }
+}

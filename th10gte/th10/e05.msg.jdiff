@@ -1,0 +1,59 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Remo  $Marisa  >Kuriti Temple, Tajomarganam."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "After a fierce battle with the gods, Marisa saw"
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "a man fall down a mountain and commit suicide."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Remo  >\"You can see right away what happened yesterday.\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Marisa  >\"Suspicion."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> The pages are so beautiful ... I sat down and looked at the wrong pages.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "Marisa hides away as she climbs onto the roof against the gods."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "I look at the mountains."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "Denmark played cards that day."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<c$Close number 12 - What is the improved way?$>"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<c$Choose a level of 1cc or higher.$>"
+            ]
+        }
+    }
+}
